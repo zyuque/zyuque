@@ -12,7 +12,8 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [About - wastedziyun](https://wastedziyun.github.io/wastedziyun.eu.org/about.html)  
   
-![wastedziyun's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wastedziyun&theme=dark)
+![wastedziyun's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wastedziyun&theme=dark)  
+Λ喜欢招摇过市Λ.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
