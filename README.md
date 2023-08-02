@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: [About - wastedziyun](https://wastedziyun.github.io/wastedziyun.eu.org/about.html)  
+- 📫 How to reach me: [zyuq | linktree](https://linktr.ee/zyuq)  
   
 ![wastedziyun's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wastedziyun&theme=dark)  
 
