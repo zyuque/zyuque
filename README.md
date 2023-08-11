@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**wastedziyun/wastedziyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zyuque/zyuque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [zyuq | linktree](https://linktr.ee/zyuq)  
   
-![wastedziyun's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wastedziyun&theme=dark)  
+![zyuque's GitHub stats](https://github-readme-stats.vercel.app/api/?username=zyuque&theme=dark)  
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
